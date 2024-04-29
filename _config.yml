@@ -28,9 +28,6 @@ url: "https://seehugs.github.io"
 github:
   username: seehugs # change to your github username
 
-tryhackme:
-  username: seehugs # change to your tryhackme username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -38,12 +35,11 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://tryhackme.com/seehugs # change to your tryhackme homepage
     - https://github.com/seehugs # change to your github homepage
+    - https://www.linkedin.com/in/seehugs
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/seehugs 
-
+    
 google_site_verification: # fill in to your verification string
 
 # ↑ --------------------------
@@ -76,7 +72,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: profile.png
+avatar: https://avatars.githubusercontent.com/u/95380111?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
