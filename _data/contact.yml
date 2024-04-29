@@ -6,6 +6,9 @@
 
 - type: github
   icon: "fab fa-github"
+
+- type: tryhackme
+  icon: "fab fa-tryhackme"
   
 # Uncomment and complete the url below to enable more contact options
 #
