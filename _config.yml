@@ -16,7 +16,7 @@ timezone:
 
 title: se3pwn5 # the main title
 
-tagline: Cibersecurity and Privacy # it will display as the sub-title
+tagline: Cybersecurity and Privacy # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   seehugs, blog, github, tryhackme
